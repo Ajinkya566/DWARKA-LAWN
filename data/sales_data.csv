@@ -1,0 +1,11 @@
+product,region,month,sales,units
+Laptop,Pune,January,120000,12
+Mobile,Mumbai,January,95000,25
+Tablet,Nagpur,January,45000,15
+Monitor,Pune,February,70000,10
+Keyboard,Mumbai,February,30000,30
+Laptop,Nagpur,February,150000,15
+Mobile,Pune,March,110000,28
+Monitor,Mumbai,March,80000,12
+Tablet,Pune,March,50000,18
+Keyboard,Nagpur,March,25000,25

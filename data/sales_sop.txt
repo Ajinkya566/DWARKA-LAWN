@@ -1,0 +1,30 @@
+METRO Sales Operations - Sample SOP
+
+1. Sales Reporting:
+Sales data should be reviewed monthly.
+The sales team should compare product performance across regions.
+
+2. Low Sales Products:
+Products with low sales should be reviewed by the sales manager.
+The manager should investigate customer demand, pricing, and stock availability.
+
+3. Regional Performance:
+Sales performance should be compared across Pune, Mumbai, and Nagpur.
+Regional differences should be investigated before taking business decisions.
+
+4. Inventory Planning:
+Inventory decisions should consider sales trends and product demand.
+High sales do not automatically mean that stock should be increased without checking inventory.
+
+5. Reporting Guidelines:
+Reports should use verified sales data.
+If information is unavailable, the assistant should clearly state that it cannot find the answer.
+
+
+Sales Return Policy
+
+Customers can return a product within 7 days
+of purchase if the product is defective.
+The original invoice is required for returns.
+Refunds are processed within 5 to 7 business days
+after the returned product is approved.
